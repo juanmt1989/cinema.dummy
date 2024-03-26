@@ -114,7 +114,7 @@ public class CinemaList<T>  extends ArrayList<T> implements ICinemaList{
 		}
 	}
 	
-	public void CinemaReciente(){
+	public void TopReciente(){
 		
 		if(tipo=='P') {
 			

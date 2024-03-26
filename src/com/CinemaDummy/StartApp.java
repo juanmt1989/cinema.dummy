@@ -19,7 +19,7 @@ public class StartApp {
 			
 			series.ListarVistos();
 			
-			pelis.CinemaReciente();
+			pelis.TopReciente();
 			
 			series.MaximoTemporadas();
 			
